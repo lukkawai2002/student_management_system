@@ -1,0 +1,25 @@
+.AddAssessment {
+    border: 2px solid rgb(142, 140, 140);
+    border-radius: 10px;
+}
+
+.AddAssessmentDetail {
+    margin: 100px;
+}
+
+.AddAssessmentDetailBox {
+    margin-left: 0;
+    margin-right: 100px;
+}
+.AssessmentImportanceCount {
+    margin: 100px;
+}
+
+.iconButton {
+    margin-top: 40px;
+}
+
+.iconButton button {
+    margin-left: 30px;
+    margin-right: 30px;
+}

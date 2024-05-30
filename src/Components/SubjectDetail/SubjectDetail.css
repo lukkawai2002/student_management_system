@@ -1,0 +1,8 @@
+.SubjectDetailBox {
+    border: 2px solid rgb(142, 140, 140);
+    border-radius: 10px;
+}
+
+.SubjectDetailBox h4 {
+    margin-top: 30px;
+}
